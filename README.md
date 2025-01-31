@@ -43,23 +43,6 @@ We use the [Wholesale Customers Dataset](https://www.kaggle.com/datasets/binovi/
 - Scikit-learn 🤖 (for clustering and evaluation metrics)
 - Matplotlib, Seaborn 📈 (for visualization)
 
-## 🚀 How to Use
-1. Clone this repository:
-   ```sh
-   git clone https://github.com/yourusername/wholesale-customers-segmentation.git
-   ```
-2. Install dependencies:
-   ```sh
-   pip install -r requirements.txt
-   ```
-3. Run the clustering analysis:
-   ```sh
-   python clustering_analysis.py
-   ```
-4. Predict the cluster for a new client:
-   ```sh
-   python predict_cluster.py --input 'new_client_data.csv'
-   ```
 
 ## 🔮 Future Work
 - Implement additional clustering methods like Gaussian Mixture Models (GMM).
